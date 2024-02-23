@@ -1,0 +1,4 @@
+git remote add origin https://github.com/loreleykrohling/lorena.git
+git branch -M main
+git push -u origin mai
+cklsdkcd 
